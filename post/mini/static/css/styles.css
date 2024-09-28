@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    color: bisque;
+}
+
+.contact-form{
+    color: cornsilk;
+}
+.form-control,
+.form-control:focus{
+    background-color:blanchedalmond;
+}
+
+.jumbotron{
+    background-color:rgba(100, 216, 237, 0.66) ;
+}
